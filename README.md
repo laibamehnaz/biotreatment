@@ -11,7 +11,7 @@ To understand seroconversion, let us first understand what does a vaccine contai
 <img src="/flu_vaccine.jpeg" width="250" height="250">
 
 
-The flu vaccine contains antigens for 4 different strains of the influenza virus. Antigen is nothning the dead virus that is injected into our bodies through the vaccine so that our immune system can learn how to fight it and remember it. In this process, our immune system generates antibodies that can fight this same virus if and when it infects the body again.
+The flu vaccine contains dead/inactivated virus for 4 different strains of the influenza virus. Dead/inactivated virus containing vaccines in general provide immunity for a shorter period of time. Once administered into the body, the immune system generates antibodies that can fight this same virus if and when it infects the body again.
 
 
 
