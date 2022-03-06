@@ -13,6 +13,5 @@ To understand seroconversion, let us first understand what does a vaccine contai
 
 The flu vaccine contains dead/inactivated influenza virus for 4 different strains. Once the vaccine is administered into the body, the immune system learns and generates antibodies that can fight this same virus if and when it infects the body again. The development of substantial antibodies takes 3-4 weeks. Hence, our dataset contains information about the antibodies present in the body on the day of admnistering the flu shot, and then 28 days after that.
 
-
 <img src="/timeline.png" width="550" height="150">
 
