@@ -1,6 +1,6 @@
 # Predicting the response to flu vaccine
 
-In this project, we use a dataset of ~1300 observations about 700 patients and aim to predict their immune response to the vaccine. We describe the response in several ways which all depend on the seroconversion measured after 3-4 weeks of vaccination. 
+In this project, we use a dataset of ~1300 observations about 700 patients and aim to predict their immune response to the vaccine. We measure the response of a patient by the amount of antibodies developed in the patient after 3-4 weeks of vaccination. 
 
 To understand seroconversion, let us begin with the vaccine.
 
