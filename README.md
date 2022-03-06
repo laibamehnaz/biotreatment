@@ -8,7 +8,7 @@ To understand seroconversion, let us begin with the vaccine.
 <img src="/flu_vaccine.jpeg" width="250" height="250">
 
 
-The flu vaccine contains antigens for 4 different strains of the influenza virus.
+The flu vaccine contains antigens for 4 different strains of the influenza virus. Antigen is basically the dead virus that is injected into our bodies through the vaccine so that our immune system can learn how to fight it. In this process, our immune system generated antibodies that can fight this same virus if and when it infects the body again.
 
 The dataset consists of several factors that could potentialy help us in predicting the immune reponse of a given patient to the flu shot. 
 
