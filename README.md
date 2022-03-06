@@ -3,7 +3,7 @@
 In this project, we use a dataset of ~1300 observations about 700 patients and aim to predict the response of the patients to the vaccine. We describe the response in several ways which all depend on the seroconversion measured after 3-4 weeks of vaccination. 
 Let us see what is seroconversion.  
 To understand seroconversion, let us begin with the vaccine. 
-
+<img src="/flu_vaccine.jpeg" width="250" height="250">
 
 
 The dataset consists of several factors that could potentialy help us in predicting the immune reponse of a given patient to the flu shot. 
