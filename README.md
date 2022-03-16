@@ -11,7 +11,7 @@ To understand seroconversion, let us first understand what does a vaccine contai
 <img src="/flu_vaccine.jpeg" width="250" height="250">
 
 
-The flu vaccine contains dead/inactivated influenza virus for 4 different strains. Once the vaccine is administered into the body, there are two immune responses. One that generates B cells and the other that generates killer T cells. B cells further produce antibodies that prevent the virus from entering into our cells. But if a virus does enter the cell, then these antibodies are useless, and killer T cells come into the picture by identifying infected cells and destroying them altogether. Hence, the effectiveness of a vaccine and protection from the disease, both depends on antibodies as well as killer T cells.  
+The flu vaccine contains dead/inactivated influenza virus for 4 different strains. Once the vaccine is administered into the body, there are two immune responses. One that generates *B cells* and the other that generates *killer T cells*. B cells further produce antibodies that prevent the virus from entering into our cells. But if a virus does enter the cell, then these antibodies are useless, and killer T cells come into the picture by identifying infected cells and destroying them altogether. Hence, the effectiveness of a vaccine and protection from the disease, both depends on *antibodies* as well as *killer T cells*.  
 
 <img src="/timeline.png" width="550" height="150">
 
