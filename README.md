@@ -17,4 +17,5 @@ It takes around 3-4 weeks to produce antibodies by the immune system, and hence 
 
 <img src="/timeline.png" width="550" height="150">
 
+<img src="/ImmuneResponse.png">
 
