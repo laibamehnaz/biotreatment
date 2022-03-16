@@ -24,4 +24,10 @@ It takes around 3-4 weeks to produce antibodies by the immune system, and hence 
 <img src="/timeline.png" width="550" height="150">
 
 
+Where *seroconversion* fits in all this is that it quantifies the increase in antibodies after being given the vaccine. Since, it is the measure of antibodies in the immune system, it is said to have a *correlation* with the efficacy and effectiveness of the vaccine. *Seroconversion* specifically measures the fold rise/increase in the antibodies on Day 28 compared to Day 0, specifically in our dataset. Beyond a certain threshold, the increase in antibodies demonstrates a very high probability of protection from the disease.   
+ 
+Our dataset further groups all those patients that have a *seroconversion* higher than that threshold, and marks them as having *high* seroconversion, and others as having *low*. However, we are provided with the exact numbers for *seroconversion* as well, for all the 4 individual strains and compositely. 
+ 
+Hence, we state our objective again as, given a dataset with several factors about the patients, we want to predict whether they will have a high seroconversion, indicating higher effectiveness of the vaccine, or a low seroconversion, indicating zero effectiveness of the vaccine 
+
 
