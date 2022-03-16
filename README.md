@@ -18,6 +18,7 @@ The flu vaccine contains dead/inactivated influenza virus for 4 different strain
 
 
 
+
 It takes around 3-4 weeks to produce antibodies by the immune system, and hence our dataset records the antibodies present in the patient on Day 0, that is the day of vaccination, before administering the vaccine. And then, on Day 28, which is 28 days after day of vaccination.
 
 <img src="/timeline.png" width="550" height="150">
