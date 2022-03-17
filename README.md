@@ -66,5 +66,5 @@ The four strains are, *H1N1, H3N2, IBV Yam, IBV Vic*, where H1N1 and H3N2 are tw
 
 
 Let us see, in general, for how many strains do patients experience high seroconversion. 
-<img  src="/NumStrainsHighSero.png" width="650" height="600">
+<img  src="/NumStrainsHighSero.png" width="300" height="300">
  
