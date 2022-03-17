@@ -49,7 +49,7 @@ First, let's explore all the columns that can serve as our target variable. Foll
 * Composite_baseline 
  
  
-We will look into a few of them starting with *seroconversion*, which is referred to as *Composite_seroconversion* in our dataset, and *Composite_SC_category*. *Composite seroconversion* represents the the sum of the seroconversion across all the four strains, and *Composite_SC_category* contains the three categories(high, low, and none), as mentioned above. 
+We will look into a few of them starting with **seroconversion**, which is referred to as *Composite_seroconversion* in our dataset, and *Composite_SC_category*. *Composite seroconversion* represents the the sum of the seroconversion across all the four strains, and *Composite_SC_category* contains the three categories(high, low, and none), as mentioned above. 
 
 <img src="/Sero.png" width="890" height="350">
 
