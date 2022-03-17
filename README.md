@@ -70,3 +70,4 @@ Let us see, in general, for how many strains do patients experience high serocon
 
 <img  src="/NumStrainsHighSero.png" width="364" height="324">
  
+We can see that most of the patients that record high seroconversion, record high seroconversion for only 1 strain as compared to all 4. 
