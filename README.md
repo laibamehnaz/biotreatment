@@ -51,7 +51,7 @@ First, let's explore all the columns that can serve as our target variable. Foll
  
 We will look into a few of them starting with *seroconversion*, which is referred to as *Composite_seroconversion* in our dataset, and *Composite_SC_category*. *Composite seroconversion* represents the the sum of the seroconversion across all the four strains, and *Composite_SC_category* contains the three categories(high, low, and none) as mentioned above. 
 
-<img src="/Sero.png" width="350" height="150">
+<img src="/Sero.png" width="550" height="250">
 
 We can see values for composite seroconversion are right skewed, and that the no. Of patients with high seroconversion(>=8.0) are much lesser than the rest of the categories. Using the bar chart for composite seroconversion category, we can see that there is class imbalance as well. 
  
