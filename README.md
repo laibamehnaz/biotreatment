@@ -57,5 +57,10 @@ We can see that the values for composite seroconversion are right skewed, and th
 
 Moving on, let us see the distribution of seroconversion in patients for each individual strain. 
 <img src="/Seroconversion_strains.png" width="700" height="600">
+<img src="/SC_Category_Strains.png" width="700" height="600">
+
+
+
+
 
  
