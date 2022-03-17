@@ -71,3 +71,22 @@ Let us see, in general, for how many strains do patients experience high serocon
 <img  src="/NumStrainsHighSero.png" width="364" height="324">
  
 We can see that most of the patients that record high seroconversion, record high seroconversion for only 1 strain as compared to all 4. 
+
+Having looked at the target values, let us look into our predictors. Following are the predictors used in our dataset. 
+* Cohort ID   
+* Age   
+* BMI   
+* BMI_category  
+* Gender Race  
+* Comorbidities  
+* PreVacc_status  
+* PreVacc_status_year  
+* Month_vaccinated  
+* Vaccine_dose  
+* D0_Titer_H1N1   
+* D0_Titer_H3N2  
+* D0_Titer_IBV_Yam  
+* D0_Titer_IBV_Vic  
+
+The patients in our dataset have varying features with their ages ranging from 11 years - 85 years.
+ 
