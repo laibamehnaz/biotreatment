@@ -31,5 +31,5 @@ Our dataset further groups all those patients that have a *seroconversion* highe
 Hence, we state our objective again as, given a dataset with several factors about the patients, we want to predict whether they will have a high seroconversion, indicating higher effectiveness of the vaccine, or a low seroconversion, indicating lower effectiveness of the vaccine, or no seroconversion, indicating zero effectiveness of the vaccine. 
 
 
-## Looking into the dataset
+# Looking into the dataset
 
