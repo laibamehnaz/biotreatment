@@ -57,6 +57,9 @@ We can see that the values for composite seroconversion are right skewed, and th
 
 Moving on, let us see the distribution of seroconversion in patients for each individual strain. 
 <img  src="/Seroconversion_Strains_updated.png" width="700" height="600">
+
+Moving on, let us see the distribution of seroconversion in patients for each individual strain.  The four strains are, *H1N1, H3N2, IBV Yam, IBV Vic*, where H1N1 and H3N2 are two variations of *type A influenza virus*, and the other two are variations of *type B influenza virus*. There is categorical classification of these as well, where the cutoff for *high* seroconversion is 2.0 and above. Seroconversion that is more than 0 and less than 2.0 is considered to be *low*, and anything that is 0 and below is considered to be *none*. We can see the class distribution for each of these 3 classes for each of the 4 strains. 
+
 <img  src="/SC_Category_Strains.png" width="650" height="600">
 
 
