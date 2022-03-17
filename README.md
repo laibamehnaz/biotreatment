@@ -56,7 +56,7 @@ We will look into a few of them starting with **seroconversion**, which is refer
 We can see that the values for composite seroconversion are right skewed, and that the no. of patients with high seroconversion(>=8.0) are much lesser than the rest of the categories. Using the bar chart for composite seroconversion category, we can see that there is class imbalance as well. 
 
 Moving on, let us see the distribution of seroconversion in patients for each individual strain. 
-<img  src="/Seroconversion_strains.png" width="700" height="600">
+<img  src="/Seroconversion_Strains_updated.png" width="700" height="600">
 <img  src="/SC_Category_Strains.png" width="650" height="600">
 
 
