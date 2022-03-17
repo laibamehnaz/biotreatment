@@ -88,5 +88,6 @@ Having looked at the target values, let us look into our predictors. Following a
 * D0_Titer_IBV_Yam  
 * D0_Titer_IBV_Vic  
 
-The patients in our dataset have varying features with their ages ranging from 11 years - 85 years.
+The patients in our dataset have varying characteristics with their ages ranging from 11 years - 85 years. Along with their ages, we also have information about their BMI which belongs to one of the following categories: *Lean, Normal, Normal, Obese, Obese, Overweight*. We also know if they reported any comorbidities, what race they belong to, whether they were previously vaccinated or not, and if they were, were they vaccinated 1 year ago or 3 years ago. If they were previously vaccinated, we also know what month they were vaccinated in and whether they had received a high or a standard dose of the vaccine. And, lastly, we have the titer values of the anitbodies present per strain in the patient, before being given the flu shot. 
+ 
  
