@@ -33,3 +33,25 @@ Hence, we state our objective again as, given a dataset with several factors abo
 
 # Looking into the dataset
 
+First, let's explore all the columns that can serve as our target variable. Following are the columns that can be used as our target variables. 
+Seroconversion_H1N1 
+Seroconversion_H3N2 
+Seroconversion_IBV_Yam  
+Seroconversion_IBV_Vic 
+Composite_seroconversion 
+SC_category_H1N1 
+SC_category_H3N2 
+SC_category_IBV_Yam 
+SC_category_IBV_Vic 
+Composite_SC_category 
+Num_SeroPos_strains 
+Baseline_category_Num_SeroPos_strains 
+Composite_baseline 
+ 
+ 
+We will look into a few of them starting with seroconversion, which is referred to as composite_seroconverison in our dataset, and Composite Seroconversion SC, which contains the three categories(high, low, and none) as mentioned above. 
+ 
+ 
+Composite seroconversion represents the the sum of seroconversion across all the four strains, and Composite Seroconversion Category contains the three categories(high, low, and none) as mentioned above. 
+We can see values for composite seroconversion are right skewed, and that the no. Of patients with high seroconversion(>=8.0) are much lesser than the rest of the categories. Using the bar chart for composite seroconversion category, we can see that there is class imbalance as well. 
+ 
