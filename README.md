@@ -53,12 +53,12 @@ We will look into a few of them starting with **seroconversion**, which is refer
 
 <img src="/Seroconversion.png" width="700" height="350">
 
-We can see that the values for composite seroconversion are right skewed, and that the no. of patients with high seroconversion(>=8.0) are much lesser than the rest of the categories. Using the bar chart for composite seroconversion category, we can see that there is class imbalance as well. From the bar chart, we can see that high seroconversion takes place for less than 50% of the patients. 
+We can see that the values for composite seroconversion are right-skewed, and that the no. of patients with high seroconversion(>=8.0) are much lesser than the rest of the categories. Looking at the bar chart for composite seroconversion category, we can see that there is class imbalance as well, patients with high seroconversion are lesser than 50% of the entire cohort. 
 
 Moving on, let us see the distribution of seroconversion in patients for each individual strain. 
 <img  src="/Seroconversion_Strains_updated.png" width="700" height="600">
 
-Moving on, let us see the distribution of seroconversion in patients for each individual strain.  The four strains are, *H1N1, H3N2, IBV Yam, IBV Vic*, where H1N1 and H3N2 are two variations of *type A influenza virus*, and the other two are variations of *type B influenza virus*. There is categorical classification of these as well, where the cutoff for *high* seroconversion is 2.0 and above. Seroconversion that is more than 0 and less than 2.0 is considered to be *low*, and anything that is 0 and below is considered to be *none*. We can see the class distribution for each of these 3 classes for each of the 4 strains. 
+The four strains are, *H1N1, H3N2, IBV Yam, IBV Vic*, where H1N1 and H3N2 are two variations of *type A influenza virus*, and the other two are variations of *type B influenza virus*. Categorical classification exists for these as well, where the cutoff for *high* seroconversion is 2.0 and above. Seroconversion that is more than 0 and less than 2.0 is considered to be *low*, and anything that is 0 and below is considered to be *none*. We can see the class distribution for each of these 3 classes for each of the 4 strains. 
 
 <img  src="/SC_Category_Strains.png" width="650" height="600">
 
